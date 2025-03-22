@@ -18,6 +18,7 @@
 |                                   platform                                    |  value   |
 | :---------------------------------------------------------------------------: | :------: |
 | [Kitten](https://kitten4.codemao.cn/), [Kitten4](https://kitten4.codemao.cn/) | OqMVXvXp |
+|                     [Kitten·N](https://kn.codemao.cn/)                        | YaxgtUTQ |
 |                     [turtle](https://turtle.codemao.cn/)                      | 23AVXalo |
 |                       [wood](https://wood.codemao.cn/)                        | n6kwoCSe |
 |                       [通天塔](https://tob.codemao.cn/)                       | cdRPMRe4 |
