@@ -9,7 +9,7 @@
 | :---------------: | :-------------------------: | :----: | :----: |
 |     bcmc_url      |       bcmc 文件的 URL       | string | `必须` |
 |       name        |          作品名称           | string | `必须` |
-|    orientation    |         `未知`(>=1)         |  int   | `必须` |
+|    orientation    |         `未知`（>=1）         |  int   | `必须` |
 |      preview      |          封面图片           | string | `必须` |
 |     sample_id     |           `无用`            | string | `可选` |
 |      version      | kitten 版本（默认当前最高） | string | `可选` |

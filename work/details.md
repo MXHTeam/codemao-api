@@ -9,7 +9,7 @@
 | :------------------: | :--------------------------------------: | :-----: |
 |          id          |                 作品 ID                  | string  |
 |      work_name       |                 作品名称                 | string  |
-|         type         | 编辑器类型(Kitten2，Kitten3，Kitten4 等) | string  |
+|         type         | 编辑器类型（Kitten2，Kitten3，Kitten4 等） | string  |
 |       ide_type       |                编辑器系列                | string  |
 |      operation       |                 操作说明                 | string  |
 |     description      |                 作品介绍                 | string  |
